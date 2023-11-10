@@ -1,0 +1,24 @@
+.linkdn:hover{
+    background-color: black;
+    transition-duration: 1s;
+}
+.colan:hover{
+    background-color: black;
+    transition-duration: 1s;
+}
+.logo:hover{
+    background-color: black;
+    transition-duration: 1s;
+}
+.fa-brands:hover{
+    background-color: rgb(236, 218, 218);
+    transition-duration: 1s;
+}
+.nav-link:hover{
+    background-color: black;
+    transition-duration: 1s;
+}
+#submit:hover{
+    background-color: green;
+}
+
