@@ -1,13 +1,14 @@
 .linkdn:hover{
-    background-color: black;
+    background-color: red;
     transition-duration: 1s;
+    
 }
 .colan:hover{
     background-color: black;
     transition-duration: 1s;
 }
 .logo:hover{
-    background-color: black;
+    background-color: red;
     transition-duration: 1s;
 }
 .fa-brands:hover{
